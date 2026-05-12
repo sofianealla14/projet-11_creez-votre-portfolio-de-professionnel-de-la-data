@@ -1,7 +1,7 @@
 # projet-11_creez-votre-portfolio-de-professionnel-de-la-data
 Data Analyst - OpenClassrooms - Sofiane ALLA - Mai 2026
 
-Création d'un portfolio professionnel de Data Analyt
+Création d'un portfolio professionnel de Data Analyst pour afin de passer un entretien d'emnauche chez Aéroworld (leader mondial dans l'industrie aéronautique)
 
 Objectifs :
 - élaborer un pitch professionnel percutant
