@@ -1,0 +1,19 @@
+Ceci est le document texte de Sofiane ALLA contenant les liens vers le portfolio en ligne avec tous les éléments demandés.
+
+• Site web personnel (portfolio) : https://sofianealla14.github.io/dataanalyst.github.com/
+• Projets sur GitHub : https://github.com/sofianealla14?tab=repositories
+• Carte mentale : https://sofianealla14.github.io/dataanalyst.github.com/annexes/carte-mentale.pdf
+• Power BI (en .pbix/.pdf) : 
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/tableau-de-bord.pbix
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/tableau-de-bord.pdf
+• Diagramme de Gantt (en .xlsx) : 
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/diagramme-de-gantt%20(1).xlsx
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/diagramme-de-gantt%20(2).xlsx
+
+Manquant après la présentation (à rajouter) :
+• Vidéo de présentation : 
+	➥ https://drive.google.com/file/d/1q11bOYCeRd7PEqgPIZPsbSgXz_ED5aiV/view?usp=share_link
+	➥ https://youtu.be/4hdykE4h3VE
+• Veille technologique (dernière page du Power BI/pdf) : 
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/tableau-de-bord.pbix
+	➥ https://sofianealla14.github.io/dataanalyst.github.com/annexes/tableau-de-bord.pdf
